@@ -1,6 +1,6 @@
 ---
 title: "Захаваем Android адкрытым"
-lang: by
+lang: be
 description: "Захаваем Android яе бясплатную адкрытую платформу, на якой кожны зможа ствараць праграмы."
 
 # localizable sections for the footer text
